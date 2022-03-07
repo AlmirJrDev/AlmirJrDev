@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento** no <a href="https://www.unipar.br/">Unipar</a>.
 - 💼 &nbsp; Estudo tambem no <a href="https://devclub.rodolfomori.com.br/">DevClub</a>
-- 🌱 &nbsp; Aprendendo mais sobre **HTML5 CSS JAVASCRIPT E LOGO IREI APRENDER REACT E NODE**.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML5 CSS JAVASCRIPT GIT NODE.JS REACT.JS**.
 
 <h3> Minhas Skills </h3>
 
@@ -20,7 +20,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  
+  
 
 **DevOps**
 
