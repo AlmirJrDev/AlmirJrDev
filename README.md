@@ -6,7 +6,7 @@
 <h3>&nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Analise e Desenvolvimento** no <a href="https://www.unipar.br/">Unipar</a>.
+- 🎓 &nbsp; Estudando **Analise e Desenvolvimento** na <a href="https://www.unipar.br/">Unipar</a>.
 - 💼 &nbsp; Estudo tambem no <a href="https://devclub.rodolfomori.com.br/">DevClub</a>
 - 🌱 &nbsp; Aprendendo mais sobre **HTML5 CSS JAVASCRIPT GIT NODE.JS REACT.JS**.
 
