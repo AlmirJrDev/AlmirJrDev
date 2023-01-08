@@ -7,7 +7,7 @@ Web Developer Front-end but I play with Back-end
 I'm a DevClub student, I've been learning about programming for about 1 year and I'm always looking to improve my knowledge. I want to become a great Front-end programmer, but I play around with the Back-end.
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [I'm still working on my portfolio website, for now only repositories](http://github.com/AlmirJrDev?tab=repositories)
+* 🖥️  See my portfolio at [HERE](https://react-almir-portfolio.vercel.app/)
 * ✉️  You can contact me at [almirjrag@gmail.com](mailto:almirjrag@gmail.com)
 * 🧠  I'm learning HTML, CSS, JavaScript, TypeScript, React,
 
