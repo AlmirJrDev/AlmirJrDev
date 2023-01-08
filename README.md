@@ -30,6 +30,6 @@ I'm a DevClub student, I've been learning about programming for about 1 year and
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AlmirJrDev"><img src="https://github-readme-stats.vercel.app/api?username=AlmirJrDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&&bg_color=DEG,020024,090979,00d4ff&hide_border=true&show_icons=true" alt="AlmirJrDev's GitHub stats" /></a>
+<a href="http://www.github.com/AlmirJrDev"><img src="https://github-readme-stats.vercel.app/api?username=AlmirJrDev&show_icons=true&hide=&count_private=true&title_color=020024&text_color=ffffff&icon_color=0891b2&&bg_color=DEG,020024,090979,00d4ff&hide_border=true&show_icons=true" alt="AlmirJrDev's GitHub stats" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirJrDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
