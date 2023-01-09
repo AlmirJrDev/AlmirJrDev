@@ -24,7 +24,7 @@ I'm a DevClub student, I've been learning about programming for about 1 year and
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/AlmirJrDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/almir-j%C3%BAnior-ara%C3%BAjo-gomes-87012822a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/AlmirJrDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-colored.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/almir-j%C3%BAnior-ara%C3%BAjo-gomes-87012822a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
