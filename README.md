@@ -31,4 +31,4 @@ I'm a DevClub and Rocketseat student, I've been learning about programming for a
 
 ![AlmirJrDev GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmirJrDev&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirJrDev&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
