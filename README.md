@@ -1,10 +1,10 @@
 Hi 👋 My name is AlmirJrDev
 ===========================
 
-Web Developer Front-end but I play with Back-end
+Web Developer Front-end 
 ------------------------------------------------
 
-I'm a DevClub student, I've been learning about programming for about 1 year and I'm always looking to improve my knowledge. I want to become a great Front-end programmer, but I play around with the Back-end.
+I'm a DevClub and Rocketseat student, I've been learning about programming for about 1 year and I'm always looking to improve my knowledge. I want to become a great Front-end programmer.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [HERE](https://react-almir-portfolio.vercel.app/)
