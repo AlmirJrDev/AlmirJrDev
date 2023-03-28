@@ -29,6 +29,6 @@ I'm a DevClub and Rocketseat student, I've been learning about programming for a
 
 ### Badges
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user={AlmirJrDev}&theme={dark}"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={AlmirJrDev}&theme={dark}"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirJrDev&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
