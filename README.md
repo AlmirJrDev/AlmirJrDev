@@ -25,7 +25,7 @@ I'm a DevClub and Rocketseat student, I've been learning about programming for a
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/AlmirJrDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/almir-j%C3%BAnior-ara%C3%BAjo-gomes-87012822a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/AlmirJrDev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  /></a> <a href="https://www.linkedin.com/in/almirjrdev/" target="_blank" rel="noreferrer"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a></p>
 
 ### Badges
 
