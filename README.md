@@ -29,6 +29,6 @@ I'm a DevClub student, I've been learning about programming for about 1 year and
 
 ### Badges
 
-![AlmirJrDev GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmirJrDev&show_icons=true&theme=transparent)
+![AlmirJrDev GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmirJrDev&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirJrDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
