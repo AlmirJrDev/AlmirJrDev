@@ -9,7 +9,7 @@ I'm a DevClub and Rocketseat student, I've been learning about programming for a
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [HERE](https://react-almir-portfolio.vercel.app/)
 * ✉️  You can contact me at [almirjrag@gmail.com](mailto:almirjrag@gmail.com)
-* 🧠  I'm learning HTML, CSS, JavaScript, TypeScript, React,
+* 🧠  I'm learning HTML, CSS, JavaScript, TypeScript, React, Next
 
 ### Skills
 
