@@ -4,7 +4,7 @@ Hi 👋 My name is AlmirJrDev
 Web Developer Front-end 
 ------------------------------------------------
 
-I'm a DevClub and Rocketseat student, I've been learning about programming for about 1 year and I'm always looking to improve my knowledge. I want to become a great Front-end programmer.
+I'm a DevClub and Rocketseat student, I've been learning about programming for about 3 year and I'm always looking to improve my knowledge. I want to become a great Front-end programmer.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [HERE](https://react-almir-portfolio.vercel.app/)
